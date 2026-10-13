@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/The-Deichlers/.github/main/profile/assets/the-deichlers-crest.jpg" alt="The Deichlers family crest" width="300" />
+  <img src="https://raw.githubusercontent.com/The-Deichlers/.github/main/profile/assets/the-deichlers-crest.jpg" alt="The Deichlers family crest" width="220" />
 </p>
 
 <h1 align="center">The Deichlers</h1>
@@ -46,6 +46,8 @@ Fedora support, Wine/DXVK integration, client updates, addons, and portal
 connectivity.
 
 **[Explore the launcher →](https://github.com/The-Deichlers/Northrend-Launcher-Linux)**
+
+> 🔒 **Private repository.** Launcher source requires authorized GitHub access.
 
 ### 🧩 [Northrend Client](https://github.com/The-Deichlers/Northrend-Client)
 
